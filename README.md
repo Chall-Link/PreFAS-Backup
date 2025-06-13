@@ -1,19 +1,18 @@
+=================================================  
+
+# PreFAS『プリファス』 - Precious Files Archive Script 
+## 日本語版 Ver.1.0.0 
+## VSS対応・貴重ファイル暗号化アーカイブスクリプト
+
+災害から貴重なファイルを守るため、大規模ドライブやフォルダを7-ZipのAES-256暗号化で可搬性のあるアーカイブに変換し、クラウドやM-Disc（100年耐久光ディスク）に保存することをコンセプトに開発されたツール
+
+**【著作権者】** Chall-Link（シャルリンク）  
+**【開発地】** Developed in Japan  
+**【種別】** フリーソフトウェア  
+
 =================================================
-　VSS (Volume Shadow Copy Service) 対応
-　貴重ファイル・暗号化アーカイブ・スクリプト
 
-　　PreFAS『プリファス』 - Precious Files Archive Script 日本語版 Ver.1.0.0 
-
-　　【革命的機能】バックアップ処理中でも元ファイルで作業継続可能！
-　　災害対策（Disaster Recovery）、データ保護（Data Protection）に特化した、
-　　7-Zipを使ったセキュアなバックアップ（Secure Backup）スクリプト
-
-【著作権者】	Chall-Link（シャルリンク）
-【動作確認OS】	Windows10 Pro 64bit
-【種別】		フリーソフトウェア
-=================================================
-
-> **⚠️ 注意**: 「アーカイブ」≒「圧縮」or「圧縮ファイル」として表記しています。
+&emsp; 
 
 ## 画期的な特徴
 
@@ -37,13 +36,35 @@ PreFASは、Windowsの復元ポイント機能を活用することで、従来�
 
 ---
 
+
+&nbsp;
+
+## ■スクリプト利用時に「WindowsによってPCが保護されました」が出た場合
+初回利用時にWindows Defender SmartScreenが警告を表示する場合があります。これは署名されていない新しいソフトウェアに対する標準的な警告です。
+
+**安全性について：**
+- ESETウイルススキャン（ローカル確認済み）
+- 完全オープンソース（内容確認可能）
+
+**実行方法：** 警告画面で「詳細情報」→「実行」をクリック
+
+
+
+
+
 ## 仕様
 
 ### 動作環境
-- Windows 10 Pro 64bit（動作確認済み）、理論上はWindows 7 SP1以上で動作可能
-- PowerShell 2.0以上（Windows標準搭載）、管理者権限での実行が必要
-- 7-Zip（LGPLライセンス）が必要（[https://www.7-zip.org/](https://www.7-zip.org/) から入手）
-- VSSサービスが有効である必要があります
+
+- スクリプトのテキストファイル属性：改行コード CRLF、文字コード Shift-JIS
+（ [GitHub Release](https://github.com/Chall-Link/VSSDetector/releases) 掲載の「Source code (zip)」は同ファイル属性に設定済）
+- Windows 10 Pro 64bit（動作確認済み）、理論上はWindows 7 SP1以上で動作可能（未確認のため自己責任でテスト推奨）
+- 必要条件: PowerShell 2.0以上（Windows標準搭載）、管理者権限、VSSサービスが有効
+- 必須ソフト：7-Zip（LGPLライセンス）が必要（[https://www.7-zip.org/](https://www.7-zip.org/) から入手）
+- 併用推奨ソフト：Chall-Link「VSSDetector」
+
+> 💡 「アーカイブ」≒「圧縮」or「圧縮ファイル」
+> 💡 「スナップショット」≒「シャドーコピー」
 
 ---
 
