@@ -60,7 +60,7 @@ PreFAS Backupの、PreFASは、「**Pre** cious **F**iles **A**rchive **S**cript
   [GitHub Release](https://github.com/Chall-Link/PreFAS-Backup/releases) 掲載の「Source code (zip)」をダウンロードすると適切な形でダウンロードできますが、一方で GitHubのRawダウンロードでダウンロードすると改行コードがLFになり動作しませんのでご注意ください。  
 - **Windows 10 Pro 64bit**: （動作確認済み）、理論上はWindows 7 SP1以上で動作可能（未確認のため自己責任でテスト推奨）  
 - **必要条件**: PowerShell 2.0以上（Windows標準搭載）、管理者権限  
-- **VSSスナップショットをアーカイブソースにする場合**: Chall-Link「VSSDetector」が必要  
+- **VSSスナップショットをアーカイブソースにする場合**: Chall-Link「VSSDetector」（ [VSSDetector-GitHub Release](https://github.com/Chall-Link/VSSDetector/releases)から入手）
 
 &emsp; 
 
