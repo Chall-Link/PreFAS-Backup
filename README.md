@@ -33,9 +33,12 @@ PreFAS-Backup/
 ├── PreFAS-Backup-OUTPUT-Folder-SAMPLE/&emsp;# サンプル出力フォルダ（デフォルト設定）
 └── SAMPLE-SOURCE-Folder-PreFAS-Backup/&emsp;# サンプルソースフォルダ（約2MB）（デフォルト設定）
  
+
+> ### 🚀 すぐに試せます！
 > デフォルト設定でスクリプトをすぐ試せるように、`ChaL-PreFAS-Backup-MAIN.bat`を管理者権限で実行し、パスワード入力すると、
 > `SAMPLE-SOURCE-Folder-PreFAS-Backup`を、`PreFAS-Backup-OUTPUT-Folder-SAMPLE` にアーカイブファイルを作成できるようになています。動作チェックなどにご利用にご活用ください。
->
+
+
 > 拡張子 `.md` はマークダウンファイルです。GitHub上では自動的に見やすく表示されます。  
 > ローカルで読みにくい場合は、`docs/pdf/` の PDF ファイルをご利用ください。
 
