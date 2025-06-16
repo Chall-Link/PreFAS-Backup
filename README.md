@@ -20,9 +20,24 @@
 ---
 ## ■ファイル構成
 PreFAS-Backup/  
-├── ChaL-PreFAS-Backup-MAIN.bat   # メインスクリプト（実行ファイル・管理者権限）  
-├── ChaL-PreFAS-Backup-SUB.bat    # サブスクリプト（実行前に変数をカスタマイズ編集）  
-└── README.md                     # 説明書（本ファイル）  
+├── ChaL-PreFAS-Backup-MAIN.bat&emsp;# 日本語版・メインスクリプト  
+├── ChaL-PreFAS-Backup-MAIN-en.bat&emsp;# 英語版・メインスクリプト  
+├── ChaL-PreFAS-Backup-SUB.bat&emsp;# 日本語版・サブスクリプト  
+├── ChaL-PreFAS-Backup-SUB-en.bat&emsp;# 英語版・サブスクリプト  
+├── README.md&emsp;# 日本語版・説明書  
+├── README-en.md&emsp;# 英語版・説明書  
+├── docs/  
+│&emsp;&emsp;└── pdf/  
+│&emsp;&emsp;&emsp;&emsp;├── README.pdf&emsp;# 日本語版・説明書 PDF  
+│&emsp;&emsp;&emsp;&emsp;└── README-en.pdf&emsp;# 英語版・説明書 PDF  
+├── PreFAS-Backup-OUTPUT-Folder-SAMPLE/&emsp;# サンプル出力フォルダ（デフォルト設定）
+└── SAMPLE-SOURCE-Folder-PreFAS-Backup/&emsp;# サンプルソースフォルダ（約2MB）（デフォルト設定）
+ 
+> デフォルト設定でスクリプトをすぐ試せるように、`ChaL-PreFAS-Backup-MAIN.bat`を管理者権限で実行し、パスワード入力すると、
+> `SAMPLE-SOURCE-Folder-PreFAS-Backup`を、`PreFAS-Backup-OUTPUT-Folder-SAMPLE` にアーカイブファイルを作成できるようになています。動作チェックなどにご利用にご活用ください。
+>
+> 拡張子 `.md` はマークダウンファイルです。GitHub上では自動的に見やすく表示されます。  
+> ローカルで読みにくい場合は、`docs/pdf/` の PDF ファイルをご利用ください。
 
 &emsp; 
 
