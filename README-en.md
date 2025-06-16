@@ -20,9 +20,24 @@
 ---
 ## ■File Structure
 PreFAS-Backup/  
-├── ChaL-PreFAS-Backup-MAIN-en.bat   # Main script (executable file, administrator privileges required)  
-├── ChaL-PreFAS-Backup-SUB-en.bat    # Sub-script (customize variables before execution)  
-└── README-en.md                     # Documentation (this file)  
+├── ChaL-PreFAS-Backup-MAIN-en.bat&nbsp;&nbsp;# English version - Main script  
+├── ChaL-PreFAS-Backup-MAIN.bat&nbsp;&nbsp;# Japanese version - Main script  
+├── ChaL-PreFAS-Backup-SUB-en.bat&nbsp;&nbsp;# English version - Sub script  
+├── ChaL-PreFAS-Backup-SUB.bat&nbsp;&nbsp;# Japanese version - Sub script  
+├── README-en.md&nbsp;&nbsp;# English version - Documentation  
+├── README.md&nbsp;&nbsp;# Japanese version - Documentation  
+├── docs/  
+│&nbsp;&nbsp;&nbsp;&nbsp;└── pdf/  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├── README-en.pdf&nbsp;&nbsp;# English version - Documentation PDF  
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── README.pdf&nbsp;&nbsp;# Japanese version - Documentation PDF  
+├── PreFAS-Backup-OUTPUT-Folder-SAMPLE/&nbsp;&nbsp;# Sample output folder (default setting)  
+└── SAMPLE-SOURCE-Folder-PreFAS-Backup/&nbsp;&nbsp;# Sample source folder (approx. 2MB) (default setting)  
+ 
+> To test the script immediately with default settings, run `ChaL-PreFAS-Backup-MAIN-en.bat` as administrator and enter the password.
+> This will create archive files from `SAMPLE-SOURCE-Folder-PreFAS-Backup` to `PreFAS-Backup-OUTPUT-Folder-SAMPLE`. Please use this for operation testing and other purposes.
+>
+> Files with `.md` extension are Markdown files. They are automatically displayed in a readable format on GitHub.  
+> If they are difficult to read locally, please use the PDF files in `docs/pdf/`.
 
 &emsp; 
 
