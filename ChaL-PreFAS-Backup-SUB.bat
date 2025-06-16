@@ -5,7 +5,7 @@
 :: ～ VSS (Volume Shadow Copy Service) 対応～
 ::　　PreFAS - Precious Files Archive Script 日本語版 Ver.1.0.0
 ::	Copyright by Chall-Link（シャルリンク）
-::	使用前に必ずお読み下さい： "README-ChaL-PreFAS-Backup-Guide.txt"
+::	使用前に必ずお読み下さい： "README.md"
 :: －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
 :: 
 :: ※ 本スクリプトの、各変数を修正した後、ChaL-PreFAS-Backup-MAIN.bat を管理者権限で実行して下さい。

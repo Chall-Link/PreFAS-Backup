@@ -5,7 +5,7 @@
 :: ~ VSS (Volume Shadow Copy Service) Support ~
 :: PreFAS - Precious Files Archive Script English Version Ver.1.0.0
 :: Copyright by Chall-Link
-:: Please read before use: "README-ChaL-PreFAS-Backup-Guide-en.txt"
+:: Please read before use: "README-en.md"
 :: ---------------------------------------------------------------
 ::
 :: After modifying the variables in the sub-script ChaL-PreFAS-Backup-SUB-en.bat 
