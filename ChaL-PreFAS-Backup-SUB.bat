@@ -7,7 +7,7 @@
 ::	Copyright by Chall-Link（シャルリンク）
 ::	使用前に必ずお読み下さい： "README-ChaL-PreFAS-Backup-Guide.txt"
 :: －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
-::
+:: 
 :: ※ 本スクリプトの、各変数を修正した後、ChaL-PreFAS-Backup-MAIN.bat を管理者権限で実行して下さい。
 
 :: ※「アーカイブ」≒「圧縮」or「圧縮ファイル」として表記しています。

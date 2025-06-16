@@ -1,5 +1,5 @@
 =================================================  
-
+ 
 # Chall-Link「PreFAS Backup」『プリファス バックアップ』 - Precious Files Archive Script 
 ## 日本語版 Ver.1.0.0 
 ## VSS対応・貴重ファイル暗号化アーカイブスクリプト
