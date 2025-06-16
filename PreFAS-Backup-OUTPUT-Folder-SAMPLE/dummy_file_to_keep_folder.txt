@@ -1,0 +1,5 @@
+This is a dummy file to keep this folder in the Git repository.
+You can safely delete this file after adding your own files to this directory.
+
+このファイルは空フォルダ化を回避するためのダミーファイルです。
+ご自身のファイルを追加後、このファイルは削除していただいて構いません。
