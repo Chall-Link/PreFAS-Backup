@@ -212,8 +212,7 @@ PreFAS-Main.batを管理者権限で実行すると、自動的にPreFAS-Sub.bat
 
 ---
 ## ■タグ
-バックアップ, 災害対策, データ保護, 暗号化, 7zip, アーカイブ, ファイルセキュリティ, クラウド保存, M-Disc, VSS, Volume Shadow Copy  
-[Tags: backup, disaster-recovery, data-protection, encryption, 7zip, archive, file-security, cloud-storage, M-Disc, VSS, volume-shadow-copy]
+災害対策, データ保護,  バックアップ, 長期保存, 暗号化, 大容量, M-Disc, クラウド, VSS
 
 &emsp; 
 
