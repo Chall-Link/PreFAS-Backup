@@ -3,9 +3,9 @@
 :: Sub-Script (Pre-execution Configuration Registration)
 :: 
 :: ~ VSS (Volume Shadow Copy Service) Support ~
-:: PreFAS - Precious Files Archive Script English Version Ver.1.0.0
+:: PreFAS - Precious Files Archive Script English Version Ver.1.0.1
 :: Copyright by Chall-Link
-:: Please read before use: "README-en.md"
+:: Please read before use: "README.md"
 :: ---------------------------------------------------------------
 ::
 :: After modifying each variable in this script, run ChaL-PreFAS-Backup-MAIN-en.bat with administrator privileges.
@@ -14,9 +14,14 @@
 
 :: All output archive extensions will be in xxx.7z.001 format, but these are also normal 7-Zip files.
 
-:: Editing files in the source folder during backup may increase the possibility of errors,
-:: but using the included ChaL-VSSDetector allows error-free file editing during archive creation.
-:: For details, please check "README-ChaL-VSSDetector_Guide-en.txt".
+:: * Editing files in the source folder during backup may increase the possibility of errors,
+:: but this can be avoided by using Windows VSS (snapshot) functionality.
+:: Snapshots are "static drive states at past points in time" generated when creating restore points,
+:: and since their content doesn't change, specifying snapshots as backup sources allows continued editing work.
+:: Using snapshots requires a dedicated path (VSS path), which can be obtained with the sister software VSSDetector 
+:: https://chall-link.github.io/VSSDetector/
+:: For details, please check the VSSDetector documentation.
+
 
 :: ***************************************************************************
 ::       Pre-execution Edit Items

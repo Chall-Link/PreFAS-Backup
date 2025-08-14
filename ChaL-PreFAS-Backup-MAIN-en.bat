@@ -3,7 +3,7 @@
 :: Main Script
 :: 
 :: ~ VSS (Volume Shadow Copy Service) Support ~
-:: PreFAS - Precious Files Archive Script English Version Ver.1.0.0
+:: PreFAS - Precious Files Archive Script English Version Ver.1.0.1
 :: Copyright by Chall-Link
 :: Please read before use: "README-en.md"
 :: ---------------------------------------------------------------

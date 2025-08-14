@@ -3,7 +3,7 @@
 :: ƒƒƒƒ ƒƒCƒ“EƒXƒNƒŠƒvƒg „„„„
 :: 
 :: ` VSS (Volume Shadow Copy Service) ‘Î‰`
-::@@PreFAS - Precious Files Archive Script “ú–{Œê”Å Ver.1.0.0
+::@@PreFAS - Precious Files Archive Script “ú–{Œê”Å Ver.1.0.1
 ::	Copyright by Chall-LinkiƒVƒƒƒ‹ƒŠƒ“ƒNj
 ::	g—p‘O‚É•K‚¸‚¨“Ç‚İ‰º‚³‚¢F "README.md"
 :: |||||||||||||||||||||||||||||||||
