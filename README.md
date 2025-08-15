@@ -1,7 +1,7 @@
 # PreFAS Backup Ver.1.0.1
 
 
-![prefas-backup-hero-banner](.\docs\images\prefas-backup-hero-banner.png)
+![prefas-backup-hero-banner](./docs/images/prefas-backup-hero-banner.png)
 
 
 ### 🔐 Precious Files Archive Script
@@ -530,5 +530,6 @@ PreFAS-Main.batを管理者権限で実行すると、自動的にPreFAS-Sub.bat
 災害対策, データ保護,  バックアップ, 長期保存, 暗号化, 大容量, M-Disc, クラウド, VSS
 
 &emsp; 
+
 
 以上
