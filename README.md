@@ -184,12 +184,15 @@ meaning "Precious Files Archive Script."
 ---
 ## System Requirements
 ### System Requirements
-- **Download Link**: Please download "Source code (zip)" from [PreFAS Backup-GitHub Release](https://github.com/Chall-Link/PreFAS-Backup/releases). Downloading via GitHub Raw will result in LF line endings and the script will not work properly.  
+- **Download Link**: Please download "Source code (zip)" from https://github.com/Chall-Link/PreFAS-Backup/releases/latest. Please note that downloading via GitHub Raw will result in LF line endings and the script will not work properly.  
 - **Character Encoding & Line Endings**: This script is a Japanese-compatible Windows script that requires Shift-JIS encoding and CRLF line endings to function properly.  
 - **Required Software**: 7-Zip (LGPL License) required (available from [https://www.7-zip.org/](https://www.7-zip.org/))  
 - **Windows 10 Pro 64bit**: (Tested), theoretically compatible with Windows 7 SP1+ (untested, use at own risk)  
 - **Requirements**: PowerShell 2.0+ (included with Windows), administrator privileges  
-- **For using VSS snapshots as archive sources**: Chall-Link "VSSDetector" (available from [VSSDetector-GitHub Release](https://github.com/Chall-Link/VSSDetector/releases))
+- **For using VSS snapshots created by restore points as archive sources**: 
+  - PreFAS Backup sister software Chall-Link "VSSDetector"
+    Details: [https://github.com/Chall-Link/VSSDetector#readme](https://github.com/Chall-Link/VSSDetector#readme)
+    Download Page: [https://github.com/Chall-Link/VSSDetector/releases/latest](https://github.com/Chall-Link/VSSDetector/releases/latest)
 - While entire drives can be archived, this script is a data archiving tool, so archiving and restoring system drives (C:) will not function as an OS.
 
 &emsp; 
@@ -441,12 +444,16 @@ PreFASは、「**Pre** cious **F**iles **A**rchive **S**cript」
 ---
 ## 動作環境
 ### 動作環境
-- **ダウンロードリンク**:  [PreFAS Backup-GitHub Release](https://github.com/Chall-Link/PreFAS-Backup/releases) 掲載の「Source code (zip)」をダウンロードしてください。GitHubのRawダウンロードでダウンロードすると改行コードがLFになり動作しませんのでご注意ください。  
+- **ダウンロードリンク**:  https://github.com/Chall-Link/PreFAS-Backup/releases/latest 掲載の「Source code (zip)」をダウンロードしてください。GitHubのRawダウンロードでダウンロードすると改行コードがLFになり動作しませんのでご注意ください。  
 - **文字コード・改行コード**: 本スクリプトは日本語対応のWindowsスクリプトで、Shift-JISエンコーディングとCRLF改行コードでなければ正常に動作しません。  
 - **必須ソフト**: 7-Zip（LGPLライセンス）が必要（[https://www.7-zip.org/](https://www.7-zip.org/) から入手）  
 - **Windows10 Pro 64bit**: （動作確認済み）、理論上はWindows7 SP1以上で動作可能（未確認のため自己責任でテスト推奨）  
 - **必要条件**: PowerShell 2.0以上（Windows標準搭載）、管理者権限  
-- **VSSスナップショットをアーカイブソースにする場合**: Chall-Link「VSSDetector」（ [VSSDetector-GitHub Release](https://github.com/Chall-Link/VSSDetector/releases)から入手）
+- **復元ポイントの作成などで作成されるVSSスナップショットをアーカイブソースにする場合** 
+  -  PreFAS Backup 姉妹ソフト Chall-Link「VSSDetector」
+    ＜詳細情報＞ [https://github.com/Chall-Link/VSSDetector#readme](https://github.com/Chall-Link/VSSDetector#readme)
+    ＜ダウンロードページ＞ [https://github.com/Chall-Link/VSSDetector/releases/latest](https://github.com/Chall-Link/VSSDetector/releases/latest)
+
 - ドライブ丸ごとアーカイブ可能ですが、本スクリプトはデータのアーカイブツールのため、システムドライブ（C:）をアーカイブして復元してもOSとしては機能しません。
 
 &emsp; 
