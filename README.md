@@ -190,9 +190,9 @@ meaning "Precious Files Archive Script."
 - **Windows 10 Pro 64bit**: (Tested), theoretically compatible with Windows 7 SP1+ (untested, use at own risk)  
 - **Requirements**: PowerShell 2.0+ (included with Windows), administrator privileges  
 - **For using VSS snapshots created by restore points as archive sources**: 
-  - PreFAS Backup sister software Chall-Link "VSSDetector"
-    Details: [https://github.com/Chall-Link/VSSDetector#readme](https://github.com/Chall-Link/VSSDetector#readme)
-    Download Page: [https://github.com/Chall-Link/VSSDetector/releases/latest](https://github.com/Chall-Link/VSSDetector/releases/latest)
+  - PreFAS Backup sister software Chall-Link "VSSDetector"  
+    Details: [https://github.com/Chall-Link/VSSDetector#readme](https://github.com/Chall-Link/VSSDetector#readme)  
+    Download Page: [https://github.com/Chall-Link/VSSDetector/releases/latest](https://github.com/Chall-Link/VSSDetector/releases/latest)  
 - While entire drives can be archived, this script is a data archiving tool, so archiving and restoring system drives (C:) will not function as an OS.
 
 &emsp; 
@@ -450,9 +450,9 @@ PreFASは、「**Pre** cious **F**iles **A**rchive **S**cript」
 - **Windows10 Pro 64bit**: （動作確認済み）、理論上はWindows7 SP1以上で動作可能（未確認のため自己責任でテスト推奨）  
 - **必要条件**: PowerShell 2.0以上（Windows標準搭載）、管理者権限  
 - **復元ポイントの作成などで作成されるVSSスナップショットをアーカイブソースにする場合** 
-  -  PreFAS Backup 姉妹ソフト Chall-Link「VSSDetector」
-    ＜詳細情報＞ [https://github.com/Chall-Link/VSSDetector#readme](https://github.com/Chall-Link/VSSDetector#readme)
-    ＜ダウンロードページ＞ [https://github.com/Chall-Link/VSSDetector/releases/latest](https://github.com/Chall-Link/VSSDetector/releases/latest)
+  -  PreFAS Backup 姉妹ソフト Chall-Link「VSSDetector」  
+    ＜詳細情報＞ [https://github.com/Chall-Link/VSSDetector#readme](https://github.com/Chall-Link/VSSDetector#readme)  
+    ＜ダウンロードページ＞ [https://github.com/Chall-Link/VSSDetector/releases/latest](https://github.com/Chall-Link/VSSDetector/releases/latest)  
 
 - ドライブ丸ごとアーカイブ可能ですが、本スクリプトはデータのアーカイブツールのため、システムドライブ（C:）をアーカイブして復元してもOSとしては機能しません。
 
