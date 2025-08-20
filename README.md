@@ -110,6 +110,8 @@ PreFAS-Backup/
 ├── PreFAS-Backup-OUTPUT-Folder-SAMPLE/&nbsp;&nbsp;# Sample output folder (default setting)  
 └── SAMPLE-SOURCE-Folder-PreFAS-Backup/&nbsp;&nbsp;# Sample source folder (approx. 2MB) (default setting)  
 
+&nbsp;
+
 > ### 🚀 Try it now!
 >
 > To test the script immediately with default settings, run `ChaL-PreFAS-Backup-MAIN-en.bat` as administrator and enter the password.
@@ -361,14 +363,14 @@ PreFAS-Backup/
 ├── README.md&emsp;# 日本語版・説明書  
 ├── docs/  
 │&emsp;&emsp;├── pdf/  
-│&emsp;&emsp;│&emsp;&emsp;└── README.pdf&emsp;# 英語・日本語二カ国語説明書 PDF 
+│&emsp;&emsp;│&emsp;&emsp;└── README.pdf&emsp;# 英語・日本語二カ国語説明書 PDF  
 │&emsp;&emsp;└── images/  
 │&emsp;&emsp;&emsp;&emsp;└── prefas-backup-hero-banner.png  
 
-├── PreFAS-Backup-OUTPUT-Folder-SAMPLE/&emsp;# サンプル出力フォルダ（デフォルト設定）
-└── SAMPLE-SOURCE-Folder-PreFAS-Backup/&emsp;# サンプルソースフォルダ（約2MB）（デフォルト設定）
+├── PreFAS-Backup-OUTPUT-Folder-SAMPLE/&emsp;# サンプル出力フォルダ（デフォルト設定）  
+└── SAMPLE-SOURCE-Folder-PreFAS-Backup/&emsp;# サンプルソースフォルダ（約2MB）（デフォルト設定）  
 
-
+&nbsp;
 
 
 > ### 🚀 すぐに試せます！
