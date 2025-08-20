@@ -6,20 +6,20 @@
 
 ### 🔐 Precious Files Archive Script
 
-
 **🌍 English-Japanese Integrated README**
 
-- This README is structured with the English version followed by the Japanese version. 
-If you would like to view the Japanese version, please jump to ▶ [here](#Japanese-Version).
+- If you would like to view the Japanese version, please jump to ▶ [here](#Japanese-Version).
+This README is structured with the English version followed by the Japanese version. 
+
 
 ### 🔐 貴重ファイル暗号化アーカイブスクリプト
 
 **🌍 英語・日本語 統合README**
 
-- 本READMEは英語版の文章に続けて日本語版のREADMEの文章を組み合わせた構成になっています。
-  **日本語版をご覧になる場合は ▶ [こちら](#Japanese-Version)から該当部分にジャンプしてください。**
-
-
+- **日本語版をご覧になる場合は ▶<a href="#Japanese-Version">こちら</a>からから該当部分にジャンプしてください。**
+  本READMEは英語版の文章に続けて日本語版のREADMEの文章を組み合わせた構成になっています。
+  
+  
 
 ---
 
@@ -280,7 +280,7 @@ End
 
 ---
 
-## Japanese Version
+<h2 id="Japanese-Version">Japanese Version</h2>
 
 ### 日本語バージョン・目次
 
