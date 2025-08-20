@@ -5,21 +5,15 @@
 
 
 ### 🔐 Precious Files Archive Script
-
-**🌍 English-Japanese Integrated README**
-
-- If you would like to view the Japanese version, please jump to ▶ [here](#Japanese-Version).
-This README is structured with the English version followed by the Japanese version. 
-
-
 ### 🔐 貴重ファイル暗号化アーカイブスクリプト
 
-**🌍 英語・日本語 統合README**
+**🌍 English-Japanese** (英語 - 日本語) **README**
 
-- **日本語版をご覧になる場合は ▶<a href="#Japanese-Version">こちら</a>からから該当部分にジャンプしてください。**
+- If you would like to view the Japanese version, please jump to ▶ <a href="#Japanese-Version">here</a>.  
+This README is structured with the English version followed by the Japanese version. 
+
+- **日本語版をご覧になる場合は ▶<a href="#Japanese-Version">こちら</a>からから該当部分にジャンプしてください。**  
   本READMEは英語版の文章に続けて日本語版のREADMEの文章を組み合わせた構成になっています。
-  
-  
 
 ---
 
@@ -276,7 +270,8 @@ disaster-recovery, data-protection, backup, long-term-storage, encryption, large
 
 &emsp; 
 
-End
+&nbsp;
+&nbsp;
 
 ---
 
