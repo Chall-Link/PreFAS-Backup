@@ -106,7 +106,7 @@ PreFAS-Backup/
 │&nbsp;&nbsp;&nbsp;&nbsp;├── pdf/  
 │&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└── README.pdf&nbsp;&nbsp;# Japanese version - Documentation PDF  
 │&nbsp;&nbsp;&nbsp;&nbsp;└── images/  
-│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── prefas-backup-hero-banner.png
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── prefas-backup-hero-banner.png  
 ├── PreFAS-Backup-OUTPUT-Folder-SAMPLE/&nbsp;&nbsp;# Sample output folder (default setting)  
 └── SAMPLE-SOURCE-Folder-PreFAS-Backup/&nbsp;&nbsp;# Sample source folder (approx. 2MB) (default setting)  
 
