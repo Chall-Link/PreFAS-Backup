@@ -366,7 +366,6 @@ PreFAS-Backup/
 │&emsp;&emsp;│&emsp;&emsp;└── README.pdf&emsp;# 英語・日本語二カ国語説明書 PDF  
 │&emsp;&emsp;└── images/  
 │&emsp;&emsp;&emsp;&emsp;└── prefas-backup-hero-banner.png  
-
 ├── PreFAS-Backup-OUTPUT-Folder-SAMPLE/&emsp;# サンプル出力フォルダ（デフォルト設定）  
 └── SAMPLE-SOURCE-Folder-PreFAS-Backup/&emsp;# サンプルソースフォルダ（約2MB）（デフォルト設定）  
 
